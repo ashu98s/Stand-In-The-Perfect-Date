@@ -1,8 +1,6 @@
-# Chill
+# Dating App UI
+The Stand-In is an app that allows people to find someone to fill in any kind of situation most likely, a fake date or partner for a situation such as helping compete in a tournament or impressing parents.
 
-## Flutter Tinder Clone built with Firebase and Bloc
+## FInal App UI
 
-
-<img height="700" src="https://github.com/OdongoWaga/chill/blob/master/Screenshot%202020-05-12%20at%2008.52.48.png" />
-<img height="700" src="https://github.com/OdongoWaga/chill/blob/master/Screenshot%202020-05-12%20at%2009.03.41.png" />
 
